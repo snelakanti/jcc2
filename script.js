@@ -6,4 +6,3 @@ for(i = 0; i < years.length; i++ ){
     console.log(years[i]);
     
 }
-
