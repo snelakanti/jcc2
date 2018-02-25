@@ -1,2 +1,5 @@
-# jcc2
-Jonas Coding Challenge 2
+###Udemy The Complete JavaScript Course
+
+##Instructor - Jonas Schmedtmann
+
+#Coding Challenge 2
