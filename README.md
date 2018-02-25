@@ -1,5 +1,5 @@
-### Udemy The Complete JavaScript Course
+# Udemy The Complete JavaScript Course
 
 ## Instructor - Jonas Schmedtmann
 
-# Coding Challenge 2
+### Coding Challenge 2
