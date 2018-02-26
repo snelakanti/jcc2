@@ -9,3 +9,14 @@ for(i = 0; i < years.length; i++ ){
 }
 
 console.log(ages);
+
+for (i = 0; i < ages.length; i++){
+
+    if(ages[i] > 18){
+
+        console.log("Adult!");
+    }
+    else{
+        console.log("Underage");
+    }
+} 
